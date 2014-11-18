@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0"/>
+  <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="cm-12.0"/>
+  <project name="TheMuppets/proprietary_vendor_qcom" path="vendor/qcom" remote="github" revision="cm-12.0"/>
+  
+</manifest>
