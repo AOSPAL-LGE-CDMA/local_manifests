@@ -12,6 +12,7 @@
   <project name="lg-devs/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-12.0"/>
   
   <project name="timpohladthomas/android_device_asus_flo" path="device/asus/flo" remote="github" revision="ls"/>
+  <project name="timpohladthomas/android_device_asus_deb" path="device/asus/deb" remote="github" revision="ls"/>
   <project name="CyanogenMod/android_kernel_google_msm" path="kernel/google/msm" remote="github" revision="cm-12.0"/>
   <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-12.0"/>
   <project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="cm-12.0"/>
